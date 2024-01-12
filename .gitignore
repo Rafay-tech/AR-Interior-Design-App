@@ -1,0 +1,11 @@
+# Ignore temporary files
+temp/
+
+# Ignore build artifacts
+build/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore files with .log extension
+*.log
